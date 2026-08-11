@@ -22,3 +22,6 @@ O **Sistema de Postagens e Comentários** foi projetado para permitir que usuár
 - Identificação do comentário
 
 **RN03**: O sistema deve aplicar regras na remoção de dados: ao excluir uma postagem, todos os comentários e reações associados a ela devem ser removidos automaticamente.
+
+## Modelagem Conceitual
+![](modelo-conceitual.png)
